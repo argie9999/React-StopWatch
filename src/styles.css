@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+}
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #424254;
+}
+
+button {
+  display: inline-block;
+  font-size: 1.3em;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 2em;
+  padding: 0.8em;
+  margin: 0.2em;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.button-container {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.stop {
+  background-color: #f74553;
+}
+
+.start {
+  background-color: #60b99a;
+}
+
+.lap {
+  background-color: #f8db9a;
+}
+
+.timer {
+  font-size: 3em;
+  text-shadow: 0.5px 0.5px black;
+  color: #eedd99;
+}
+
+.small-timer {
+  font-size: 1em;
+  text-shadow: 0.5px 0.5px black;
+  color: #eedd11;
+}
